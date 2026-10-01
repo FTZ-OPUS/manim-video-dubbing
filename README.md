@@ -1,5 +1,7 @@
 # manim-video-dubbing
 
+![manim-video-dubbing 宣传海报：Manim 动画画面沿时间轴与中文配音波形精确同步](assets/manim-video-dubbing-banner.png)
+
 给无声的 Manim 渲染视频配中文解说，做到**音画逐段精确对齐**——不是"大概同步"，而是每句话说到什么、画面就演到什么。
 
 你只需要提供两样东西：
